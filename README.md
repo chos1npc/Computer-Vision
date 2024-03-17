@@ -1,5 +1,5 @@
 # Computer-Vision
-Course in NTNU:Computer-Vision
+*Course in NTNU:Computer-Vision*
 
 
 HW1:Average Filter
